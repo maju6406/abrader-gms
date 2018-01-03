@@ -4,9 +4,9 @@
   "author": "Abir Majumdar & Andrew Brader",
   "summary": "Git Management Systems API Types & Providers",
   "license": "Apache-2.0",
-  "source": "https://github.com/maju6406/abrader-gms",
-  "project_page": "https://github.com/maju6406/abrader-gms",
-  "issues_url": "https://github.com/maju6406/abrader-gms/issues",
+  "source": "https://github.com/maju6406/maju6406-gms",
+  "project_page": "https://github.com/maju6406/maju6406-gms",
+  "issues_url": "https://github.com/maju6406/maju6406-gms/issues",
   "tags": ["git", "github", "gitlab", "stash", "gms"],
   "operatingsystem_support": [
      {
