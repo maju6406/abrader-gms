@@ -1,10 +1,4 @@
-[![Puppet
-Forge](http://img.shields.io/puppetforge/v/abrader/gms.svg)](https://forge.puppetlabs.com/abrader/gms)
-[![Build
-Status](https://travis-ci.org/abrader/abrader-gms.svg?branch=master)](https://travis-ci.org/abrader/abrader-gms)
-[![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/abrader/abrader-gms?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
-[![Puppet Forge Downloads](http://img.shields.io/puppetforge/dt/abrader/gms.svg)](https://forge.puppetlabs.com/abrader/gms)
-
+This is a fork of [abrader-gms](https://github.com/abrader/abrader-gms) used in the [https://github.com/maju6406/pe_code_manager_easy_setup](pe_code_manager_easy_setup) module. 
 # Git Management Systems API Types & Providers
 
 As of right now this repository only covers the following GMS functionality:
